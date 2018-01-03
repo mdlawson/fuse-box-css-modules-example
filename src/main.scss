@@ -1,0 +1,7 @@
+@import "partial";
+@value color from "./colors.scss";
+
+
+body {
+  background: color
+}
